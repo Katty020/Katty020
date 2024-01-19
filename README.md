@@ -28,7 +28,7 @@ the extra mile to achieve outstanding results.
 
 <br />
 
-<BR>
+<br>
 
 
 <h2>Connect With Me</h2> 
