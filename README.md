@@ -3,8 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Aryan+Katiyar....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
-![](https://komarev.com/ghpvc/?username=said7388&color=brightgreen)
                     
 `**Digital Craftsman (Developer / Programmer)**`
 
