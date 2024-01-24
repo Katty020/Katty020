@@ -1,16 +1,21 @@
-<h1>✨ Aryan Katiyar </h1>
-<br /> 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Aryan+Katiyar....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
                     
 `**Digital Craftsman (Developer / Programmer)**`
 
                     
 
-<p align="left">Passionate learner and tech enthusiast with expertise in web
-development. Dedicated to continuous learning and staying updated
-with emerging technologies. Demonstrated success in hackathons and
-delivering high-quality work. Committed to excellence and going
-the extra mile to achieve outstanding results.
+<p align="left">Enthusiastic and committed individual with a strong passion for learning and technology, particularly in the field of web development. Proven track record of success in hackathons and consistently delivering top-notch work. Devoted to continuous improvement and staying abreast of the latest advancements in technology. Committed to excellence and willing to go above and beyond to achieve exceptional results.
+
+
+
+
+
+
 </p>
 
 ---
@@ -24,8 +29,11 @@ the extra mile to achieve outstanding results.
 
 
 <!--   <a href="https://github.com/Katty020gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katty020&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="Katty020" /></a> -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Katty020&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Katty020" /></p>
-<br>
+### Top Usage Languages:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katty020&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" />
+
+---
 
 <br>
 
