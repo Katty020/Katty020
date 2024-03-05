@@ -3,8 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+This+is+Aryan+Katiyar....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-![](https://komarev.com/ghpvc/?username=your-github-username)
-                    
+ [![Image of https://github.com/Katty020/my-profile-view-counter](https://github.com/Katty020/my-profile-view-counter/blob/master/svg/profile/badge.svg)](https://github.com/Katty020/my-profile-view-counter)
+
+ 
 `**Digital Craftsman (Developer / Programmer)**`
 
                     
