@@ -37,7 +37,6 @@
 <br>
 <br />
 
-<br>
 
 <br>
 <h2>Connect With Me</h2> 
