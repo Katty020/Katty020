@@ -31,7 +31,9 @@
 <!--   <a href="https://github.com/Katty020gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katty020&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="Katty020" /></a> -->
 ### Top Usage Languages:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katty020&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" />
+<p><a href="https://github.com/cappybara12#gh-dark-mode-only" target="_blank"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katty020&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="" /></a>
+  <a href="https://github.com/cappybara12#gh-light-mode-only" target="_blank"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katty020&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="" /></a>
+</p>
 
 ---
 
