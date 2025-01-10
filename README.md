@@ -31,8 +31,8 @@
 <!--   <a href="https://github.com/Katty020gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katty020&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="Katty020" /></a> -->
 ### GitHub Stats:
 
-<p>&nbsp;<a href="https://github.com/cappybara12#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Katty020&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="cappybara12" /></a>
-<a href="https://github.com/cappybara12#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Katty020&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="cappybara12" /></a>
+<p>&nbsp;<a href="https://github.com/Katty020#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Katty020&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="katty020" /></a>
+<a href="https://github.com/Katty020#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Katty020&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="katty020" /></a>
 </p> 
 <br>
 <br />
