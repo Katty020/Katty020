@@ -34,8 +34,6 @@
 <p>&nbsp;<a href="https://github.com/Katty020#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Katty020&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="katty020" /></a>
 <a href="https://github.com/Katty020#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Katty020&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="katty020" /></a>
 </p> 
-<br>
-<br />
 
 
 <br>
