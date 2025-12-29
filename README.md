@@ -29,7 +29,7 @@
 
 
 <!--   <a href="https://github.com/Katty020gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katty020&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="Katty020" /></a> -->
-<h2>📊 GitHub Stats:</h2>
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Katty020&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Katty020&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Katty020&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
