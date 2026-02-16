@@ -20,7 +20,7 @@
 
 ---
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Katty020&label=Profile%20views&color=0e75b6&style=flat" alt="Katty020" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Katty020&label=Profile%20views&color=0e75b6&style=flat" alt="Katty020" /> </p> -->
 <h2>Languages and Tools</h2> 
 <p align="left">
 <img width="280px"  src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,express,react,nextjs,tailwind,vscode,aws,git,github,docker,kubernetes,azure,terraform&perline=7"  />
