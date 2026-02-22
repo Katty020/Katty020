@@ -30,8 +30,17 @@
 
 <!--   <a href="https://github.com/Katty020gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katty020&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="Katty020" /></a> -->
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Katty020&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Katty020&theme=dark&hide_border=false)<br/>
+
+<p align="center">
+
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vrajpat3ll&theme=gruvbox) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vrajpat3ll&theme=gruvbox) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vrajpat3ll&theme=gruvbox) |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+
+| ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=vrajpat3ll&width=540&count=4&header_style=normal_stats&show_user=header&bg_color=282828) | ![LeetCode Stats](https://leetcard.jacoblin.cool/vrajpat3ll?theme=dark&font=arial&ext=heatmap&border_radius=10) |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+
+
+</p>
 
 
 
