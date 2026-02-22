@@ -36,7 +36,7 @@
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Katty020&theme=gruvbox) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Katty020&theme=gruvbox) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Katty020&theme=gruvbox) |
 | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 
-|![LeetCode Stats](https://leetcard.jacoblin.cool/Katty_020?theme=dark&font=arial&ext=heatmap&border_radius=10) |
+![LeetCode Stats](https://leetcard.jacoblin.cool/Katty_020?theme=dark&font=arial&ext=heatmap&border_radius=10)
 
 
 
